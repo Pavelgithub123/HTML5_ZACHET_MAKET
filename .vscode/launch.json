@@ -1,0 +1,14 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-msedge",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "d:\\КАТАЛОГИ\\ДОКУМЕНТЫ\\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЕ\\УРОКИ\\HTML5_CSS3_new_maket_2_zachet\\HTML5_ZACHET_MAKET\\index.html"
+        }
+    ]
+}
